@@ -1,0 +1,1 @@
+# Waste-Segregation-using-YOLOv10
